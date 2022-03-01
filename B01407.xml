@@ -1,0 +1,257 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to the Whiggish poem on the loyal apprentices feast·</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01407</idno>
+            <idno type="OCLC"> 12062329</idno>
+            <idno type="STC">Wing A3453</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.161.f.2[16]</idno>
+            <idno type="STC">ESTC R23022</idno>
+            <idno type="EEBO-CITATION">99888459</idno>
+            <idno type="PROQUEST">ocm99888459</idno>
+            <idno type="VID">182405</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01407)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182405)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:5[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to the Whiggish poem on the loyal apprentices feast·</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Allen Banks,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "The buisy town grew still, and trait'rous Whigs ..."</note>
+                  <note>A Tory reply to: A poem upon the prentices feast at Merchant-Taylors-Hall.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Whig Party (Great Britain) --  Controversial literature --  Early works to 1800.</term>
+               <term>Poem upon the prentices feast at Merchant-Taylors-Hall.</term>
+               <term>Political satire, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:182405:1"/>
+            <head>AN ANSWER To the <hi>Whiggiſh</hi> POEM on the <hi>Loyal Apprentices</hi> FEAST.</head>
+            <lg>
+               <l>THe buiſy Town grew ſtill, and <hi>Trait'rous Whigs</hi>
+               </l>
+               <l>Had lately chang'd their <hi>Looks</hi> and <hi>Periwigs,</hi>
+               </l>
+               <l>Left Envy's Face behind, and Sniv'ling Cant,</l>
+               <l>And <hi>Hectors</hi> turn'd, with <hi>Loyaliſts</hi> to Rant.</l>
+               <l>I know not which it was, whether They thought</l>
+               <l>Some <hi>Conventicling Whores</hi> might there be brought</l>
+               <l>By <hi>ſtrict Devotion</hi> to meet a <hi>BROTHER,</hi>
+               </l>
+               <l>Or whether 'twas they Scented out ſome other</l>
+               <l>Warm Zealous <hi>Game,</hi> as <hi>Paſty, Pudding-Pie,</hi>
+               </l>
+               <l>Not Superſtitious now, if <hi>WHIG</hi> be by.</l>
+               <l>But ſomthing 'twas made <hi>Godly'ſt Men o'th'Nation</hi>
+               </l>
+               <l>Back-ſlide a little now for Recreation;</l>
+               <l>And here's a <hi>Penitential Pſalm</hi> of One</l>
+               <l>That tells his <hi>BRETHREN</hi> what Himſelf has done</l>
+               <l>At <hi>LOYAL-FEAST</hi> in <hi>MERCHNT-TAYLORS-HALL</hi>
+               </l>
+               <l>'Mongſt <hi>Coxcomb-Lords,</hi> and Worſhippers of <hi>BAAL;</hi>
+               </l>
+               <l>Whither <hi>Fooliſh KING,</hi> and <hi>PRINCES</hi> too had ſent</l>
+               <l>
+                  <hi>Fat BUCKS,</hi> in Sacrifice to IDOLS meant.</l>
+               <l>Yet 'mongſt ſuch Fools a <hi>WHIG</hi> can Eat and Drink,</l>
+               <l>Whilſt H'one thing Speaks, and doth another Think.</l>
+               <l>He in Deceit can mannage cunning ſlight;</l>
+               <l>Not ſo the <hi>Tories,</hi> they muſt be downright,</l>
+               <l>And naturally are ſo to all Mens ſight.</l>
+               <l>But <hi>Whigs</hi> with Reſervation Speak and Write,</l>
+               <l>And far out-do the greateſt <hi>Jeſuite.</hi>
+               </l>
+               <l>Well; Fools we muſt be then, the <hi>Whigs</hi> will have</l>
+               <l>For their dear ſelves the other Sir name, <hi>Knave.</hi>
+               </l>
+               <l>Then let them hav't, we'll give the Devil's due,</l>
+               <l>
+                  <hi>Whig</hi> earns it better than <hi>Papiſt, Turk,</hi> or <hi>Jew:</hi>
+               </l>
+               <l>'Tis but re-counting in <hi>PHANATICK</hi> ſtrain</l>
+               <l>The fouleſt Crimes, and then they're <hi>SAINT</hi> again.</l>
+               <l>A <hi>FALLEN STAR</hi> to day, perhaps to morrow</l>
+               <l>May ſhine like <hi>LUCIFER,</hi> and from him borrow</l>
+               <l>A brand or two of his Infernal <hi>LIGHT,</hi>
+               </l>
+               <l>T'intoxicate poor people in the <hi>Night,</hi>
+               </l>
+               <l>New <hi>Lights,</hi> and new <hi>Diſcoveries</hi> they bring,</l>
+               <l>
+                  <hi>Dark-Lanthorn-Counſels</hi> how t'abuſe the <hi>King;</hi>
+               </l>
+               <pb facs="tcp:182405:2"/>
+               <l>Make every thing <hi>Ridiculous</hi> appear,</l>
+               <l>That pleaſes <hi>HIM,</hi> or any <hi>LOYAL PEER.</hi>
+               </l>
+               <l>The <hi>ROYAL FAM'LY</hi>'s but a <hi>Popiſh Crew,</hi>
+               </l>
+               <l>And <hi>Doctor Crape-Gowns</hi> are all <hi>Papiſts</hi> too;</l>
+               <l>A puny Pray'rs the beſt thing they can tell ye,</l>
+               <l>Whileſt their <hi>Devotion</hi>'s fix'd upon their <hi>Belly:</hi>
+               </l>
+               <l>
+                  <hi>Loyal ADDRESSES,</hi> and <hi>ABHORRENCES,</hi>
+               </l>
+               <l>(Quoth, <hi>Turn-Coat Whig</hi>) are ſottiſh <hi>Flatteries,</hi>
+               </l>
+               <l>The <hi>KING</hi> delights in <hi>Paraſites,</hi> we ſee,</l>
+               <l>And none but <hi>Fools</hi> can in His Favour be;</l>
+               <l>
+                  <hi>Diſſolving Parliaments</hi> deſerves <hi>Damnation,</hi>
+               </l>
+               <l>For keeping <hi>Publick Juſtice</hi> from the Nation;</l>
+               <l>And th' <hi>Godly Perſecuted.</hi> 'Laſs! 'tis worſe</l>
+               <l>Than <hi>Tyranny,</hi> or <hi>Arbitrary. Force.</hi>
+               </l>
+               <l>
+                  <hi>Popery</hi> is come already! Where be we?</l>
+               <l>
+                  <hi>Brethren,</hi> ſtand faſt in <hi>Chriſtian Liberty.</hi>
+               </l>
+               <l>See how the <hi>Loyal Beagles</hi> of the Town</l>
+               <l>Flock from their Shops, t'adore the Idol CROWN.</l>
+               <l>Thoſe ſilly Curs, that ſometimes us'd to help's,</l>
+               <l>And foll'w our keen <hi>Rebellious Bloud hound Whelps,</hi>
+               </l>
+               <l>They're now declaring for the ROYAL CAUSE,</l>
+               <l>Think KINGLY BLOUD too <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>acred for our Jaws.</l>
+               <l>Help now or never, <hi>Baxter, Cur<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is, Care,</hi>
+               </l>
+               <l>And all <hi>True Patriots</hi> of our <hi>Holy War;</hi>
+               </l>
+               <l>The <hi>KING</hi> and <hi>COURT</hi> can't be more odious made</l>
+               <l>Strike now; ſtrike home, or all our, LO<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> betraid.</l>
+            </lg>
+            <lg>
+               <l>Thus far the <hi>Whigs;</hi> For here the <hi>True Sence</hi> lies</l>
+               <l>Of all their <hi>Libels, Rhithmes;</hi> and <hi>Forgeries;</hi>
+               </l>
+               <l>And yet they're <hi>LOYAL</hi> ſtill; But ye muſt know,</l>
+               <l>'Tis with a <hi>Mental Reſervation</hi> though,</l>
+               <l>As <hi>Brother Poet</hi> has at laſt confeſt;</l>
+               <l>Who, if he'd hid <hi>This Truth,</hi> had ſpoil'd his <hi>Jeſt.</hi>
+               </l>
+               <l>Ay, we've experienc'd well what <hi>LOYALTY</hi>
+               </l>
+               <l>Since <hi>Forty One,</hi> his <hi>Brethren</hi> brood and be</l>
+               <l>Are like to ſhew; which makes us think, and ſay,</l>
+               <l>Old <hi>Nick</hi>'s as <hi>True,</hi> and <hi>Loyal</hi> too, as <hi>They.</hi>
+               </l>
+               <l>But YOU, <hi>Brave Loyal YOUTHS</hi> (that <hi>Fools</hi> and <hi>Fops</hi>
+               </l>
+               <l>Are nick-nam'd by the <hi>Rebel-Rout</hi>) Your Shops</l>
+               <l>Shall be Protected, by the Sov'reign Charms</l>
+               <l>Of <hi>CHARLES</hi> and <hi>YORK,</hi> and their <hi>Victorious Arms;</hi>
+               </l>
+               <l>With Heavns aſſiſtance, win Your ſelves Renown,</l>
+               <l>Redeem the Credit of this <hi>Ancient Town;</hi>
+               </l>
+               <l>Say, LONDON'S PRENTICES have done the thing,</l>
+               <l>Joyn'd <hi>Zeal to GOD</hi> with <hi>Duty to the KING.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Allen Banks,</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
